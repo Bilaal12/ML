@@ -1,1 +1,1 @@
-# ML
+# Malaria-Detection
